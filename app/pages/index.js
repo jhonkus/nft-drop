@@ -1,4 +1,5 @@
 import React, {useEffect} from "react";
+import CandyMachine from "../components/CandyMachine";
 import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 // Constants
@@ -44,8 +45,10 @@ const Home = () => {
                 <div className="header-container">
                     <p className="header">🍭 Candy Drop</p>
                     <p className="sub-text">NFT drop machine with fair mint</p>
-                     {/* Add the condition to show this only if we don't have a wallet address */}
-                     {wallet.publicKey ? "Hello World" : renderNotConnectedContainer()}
+                    
+                 {/* Render your connect to wallet button right here */}
+                 {wallet.publicKey ? <CandyMachine walletAddress={wallet} /> : renderNotConnectedContainer()}
+                
                 </div>
                 <div className="footer-container">
                     <img alt="Twitter Logo" className="twitter-logo" src="twitter-logo.svg" />
