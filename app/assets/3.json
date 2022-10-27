@@ -1,0 +1,20 @@
+{
+  "name": "PKus Duo Tone #4",
+  "symbol": "PKUSDTP",
+  "description": "Collection of 5 my pictures in pandawa beach Bali on the blockchain. 4/5",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

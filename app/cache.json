@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "GEAcqSZxxaJPSp1dza1EMuYhnhqm5qFxRLfo22vWT8XL",
+    "candyMachineCreator": "HkA7zRQdnquPJ7jBgC1wf83sdr6PBbZsFDCDcetgQNxJ",
+    "collectionMint": "5EuqCdGLQCjgGy6rfHdQtzLa1gbsYM9h2iewJFWnDhHK"
+  },
+  "items": {
+    "-1": {
+      "name": "PKus Duo Tone Pictures",
+      "image_hash": "55f9456414a832790705d2b5642039d72509840c4366518171e4c85f8918e2b6",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/collection.png",
+      "metadata_hash": "a323605f2d90f2cf42efd3dae784bda59893caddd0ef619b1139059ed48c62d5",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/collection.json",
+      "onChain": true
+    },
+    "0": {
+      "name": "PKus Duo Tone #1",
+      "image_hash": "4b1abf29b1a63cb8fce0da778b0b50719c12a089014fb090ff835541d374dbe1",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/0.png",
+      "metadata_hash": "b70521449a5bc3d4b0df32b63185ba3321a08b448ffe7315415d154ec4a34583",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "PKus Duo Tone #2",
+      "image_hash": "ca535e66a9161817744ec566228751163458839fa0a2d5708a5577742d9131fb",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/1.png",
+      "metadata_hash": "c79720fe29ac02e85eb113b95eadeaf1a39c2384e86148a7fec7db3c3fba1658",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "PKus Duo Tone #3",
+      "image_hash": "d224fb8d9050234434949e1f94cdd36b6c57d7fe95f7ec33c6697bdeaabe8000",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/2.png",
+      "metadata_hash": "f101af04f5af2cf242173096166a98cadb192d21278acf6a93cefa8e08dfbe05",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "PKus Duo Tone #4",
+      "image_hash": "55f9456414a832790705d2b5642039d72509840c4366518171e4c85f8918e2b6",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/3.png",
+      "metadata_hash": "ef1d527846d5bd028f64ca4f9fa6c4e5538e53aeae4eedd95ea6f29126f3e430",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "PKus Duo Tone #5",
+      "image_hash": "07e7753ccdbbaf716db92c4c0fa129d6f0a1bf868166081ecb1a439be1c99201",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaoktvcvlz5amdsj6fp7haxx35b6t37fkwkfsudqio44e2rxrj3sm/4.png",
+      "metadata_hash": "53548e492f122615253c658871dff0f49600295096fac3af17816f3f95021aeb",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieafrdc7ego742sjfv67cj4xgyn2mwix3zzyuershh4gptzgemz5i/4.json",
+      "onChain": true
+    }
+  }
+}
