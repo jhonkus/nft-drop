@@ -1,14 +1,14 @@
 {
-  "price": 0.02,
+  "price": 0.01,
   "number": 5,
   "gatekeeper": null,
   "creators": [
     {
-      "address": "C5Zu3kgzS28UpQPoFj5U9ssrPmtcH6Ae6BFNy5DbNw7h",
+      "address": "CUScxuDBxmVYDURcDkCRYyYm7ZTmRJX2L4AxrmnAfYwt",
       "share": 100
     }
   ],
-  "solTreasuryAccount": "C5Zu3kgzS28UpQPoFj5U9ssrPmtcH6Ae6BFNy5DbNw7h",
+  "solTreasuryAccount": "CUScxuDBxmVYDURcDkCRYyYm7ZTmRJX2L4AxrmnAfYwt",
   "splTokenAccount": null,
   "splToken": null,
   "goLiveDate": "2022-10-27T09:17:37.583579+00:00",
